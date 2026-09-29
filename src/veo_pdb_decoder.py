@@ -3,7 +3,7 @@
 VEO Palm Camera PDB → JPEG Decoder
 ===================================
 
-Decodes .pdb image files from the Veo Stingray/Connect Palm OS camera
+Decodes .pdb image files from the Veo Photo Traveler Palm OS camera
 (Type 4 delta compression) into standard JPEG images.
 
 Usage:

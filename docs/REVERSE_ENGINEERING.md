@@ -10,7 +10,7 @@
 
 ## Project overview
 
-The Veo Stingray/Connect was a Palm OS digital camera from the early 2000s. It stored images in `.pdb` (Palm Database) files with proprietary Type 4 compression. After ~20 years, the original decoders and the Veo software are long gone.
+The Veo Photo Traveler for Palm Handhelds was a small digital camera from the early 2000s that plugs into the SD expansion slot of a Palm. It stored images in `.pdb` (Palm Database) files with proprietary Type 4 compression. After ~20 years, the original decoders and the Veo software are long gone.
 
 **Goal:** Write a reproducible, working decoder that makes all old Veo images readable again.
 

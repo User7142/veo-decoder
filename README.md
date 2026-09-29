@@ -1,7 +1,7 @@
 # Veo Palm Camera PDB → JPEG Decoder
 
-A reverse-engineered decoder for the `.pdb` picture files of the Veo digital camera for
-Palm OS devices from the early 2000s.
+A reverse-engineered decoder for the `.pdb` picture files of the **Veo Photo Traveler for
+Palm Handhelds**, a small SD-card camera for Palm OS devices from the early 2000s.
 
 The camera stored every picture as a Palm Database (`.pdb`) with a proprietary
 compression ("Type 4"). The Windows software that converted them to JPEG is long gone.
@@ -85,11 +85,6 @@ in [docs/OVERVIEW.md](docs/OVERVIEW.md).
 | `src/veo_*` (other) | Analysis and debugging tools used during reverse engineering |
 | `data/` | Two sample `.pdb` files |
 | `docs/` | Overview and reverse engineering notes |
-
-## Your pictures?
-
-The decoder was developed with pictures from one camera. If you have Veo `.pdb` files
-that do not decode correctly, please open an issue.
 
 ## License
 

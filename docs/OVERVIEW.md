@@ -2,7 +2,7 @@
 
 ## Result
 
-The decoder `veo_pdb_decoder.py` converts .pdb image files from the Veo Stingray/Connect
+The decoder `veo_pdb_decoder.py` converts .pdb image files from the Veo Photo Traveler
 Palm OS camera into JPEG images, completely and reproducibly.
 
 **Quality:** PSNR=24.46dB, correlation 0.984 against the original JPEG produced by the Veo software.
